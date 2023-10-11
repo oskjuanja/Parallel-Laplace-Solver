@@ -1,0 +1,7 @@
+1. Try only jacobi to see if there is speedup with increased # of threads.
+2. Try making interpolation/restriction serial.
+3. Make one plot displaying non-equilibrium.
+4. Maybe try the other BC to see if still slowdown.
+
+5. Try removing lock and instead using array of maxErr's-
+6. Instead of swapping.
